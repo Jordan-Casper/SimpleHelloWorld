@@ -1,0 +1,8 @@
+[
+{
+  "directory": "H:/Documents/College Education and Independent Study/Jordan_Casper_Portfolio/C++/Language_Learning_C++/SimpleHelloWorld/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\c++.exe -g -o CMakeFiles\\SimpleHelloWorld.dir\\HelloWorldStarter.cpp.obj -c \"H:\\Documents\\College Education and Independent Study\\Jordan_Casper_Portfolio\\C++\\Language_Learning_C++\\SimpleHelloWorld\\HelloWorldStarter.cpp\"",
+  "file": "H:\\Documents\\College Education and Independent Study\\Jordan_Casper_Portfolio\\C++\\Language_Learning_C++\\SimpleHelloWorld\\HelloWorldStarter.cpp",
+  "output": "CMakeFiles\\SimpleHelloWorld.dir\\HelloWorldStarter.cpp.obj"
+}
+]

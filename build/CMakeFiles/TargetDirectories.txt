@@ -1,0 +1,3 @@
+H:/Documents/College Education and Independent Study/Jordan_Casper_Portfolio/C++/Language_Learning_C++/SimpleHelloWorld/build/CMakeFiles/SimpleHelloWorld.dir
+H:/Documents/College Education and Independent Study/Jordan_Casper_Portfolio/C++/Language_Learning_C++/SimpleHelloWorld/build/CMakeFiles/edit_cache.dir
+H:/Documents/College Education and Independent Study/Jordan_Casper_Portfolio/C++/Language_Learning_C++/SimpleHelloWorld/build/CMakeFiles/rebuild_cache.dir
